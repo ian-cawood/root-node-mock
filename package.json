@@ -1,0 +1,11 @@
+{
+  "name": "root-node-mock",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/ian-cawood/root-node-mock.git",
+  "author": "<ian.cawood@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
